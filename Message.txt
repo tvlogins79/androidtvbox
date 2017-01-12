@@ -1,4 +1,5 @@
-# androidtvbox
+1 
+|||
 This message is to indicate new builds are available.
 The new builds are available 1 of 2 ways. From within kodi, navigate to System on the menu bar and open Software Updater. Select the build you wish to install. Androidtvbox contains no adult content. Androidtvboxadult contains an Adult section under Others that is password protected.
 Or if you are on an older build and do not see the Software Updater, then it can be accessed from within Kodi by navigating to and click on Apss. Scroll down to the AndroidTVBox Icon and press OK on the remote. Select the build you wish to install. Androidtvbox contains no adult content. Androidtvboxadult contains an Adult section under Others that is password protected.
