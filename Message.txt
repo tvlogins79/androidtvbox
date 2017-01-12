@@ -6,6 +6,3 @@ Or if you are on an older build and do not see the Software Updater, then it can
 
 The new build  will download and install automatically. You will need to pull the power cord when in completes and indicates that you force close Kodi to complete the procedure.
 
-Test 
-
-test 2
