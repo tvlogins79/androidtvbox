@@ -3,9 +3,9 @@
 [B][COLOR green]AndroidTVBox[/COLOR][/B]
 [B]New Android TV Box Update Available.[/B]
  
-This new build removes the Christmas section and addds anew Favorites section. Along with some background picture changes.
+This message will appear with instructions each time a new update is available.
 
-On Kodi main bar go to system\software updater and choose either androidtvbox or androidtvboxadult (password protected) It will download and install automatically. You will need to pull the power cord on the TV box once in completes to finish the install
+Thank you andd Enjoy your Android TV Box.
 
 
 
